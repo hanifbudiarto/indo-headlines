@@ -7,5 +7,8 @@ My new Flutter project.
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
 
+![alt text](https://raw.githubusercontent.com/hanifbudiarto/indo-headlines/master/screenshot.png )
+
+
 
 
