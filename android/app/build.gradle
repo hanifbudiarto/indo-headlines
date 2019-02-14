@@ -32,8 +32,7 @@ android {
         targetSdkVersion 27
         versionCode 1
         versionName "1.0.1"  
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"        
-        setProperty("archivesBaseName", "Indo-Headlines-$versionName")      
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"    
     }
     signingConfigs {
         release {
